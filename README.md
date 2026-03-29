@@ -4,7 +4,7 @@ This is about the benchmark, source code, solution certificates of our union-red
 ------------------------------------------------------------------------
 Benchmark:
 
-Totally 295 instances in 12 diffirent sets, including 5 sets with theoretically optimial solutions, 3 sets with conjectured optimal solutions and 4 sets with unknown optimal solutions.
+Totally 295 instances in 12 diffirent sets, including 5 sets with theoretically optimal solutions, 3 sets with conjectured optimal solutions and 4 sets with unknown optimal solutions.
 
 - The first 8 sets are employed by Bansal and Srivastav[1].
 
