@@ -12,7 +12,8 @@ Totally 295 instances in 12 diffirent sets, including 5 sets with theoretically 
   
 ------------------------------------------------------------------------
 Source Code:
-The manuscript is under reivew. The source code of the proposed algorithm will be uploaded upon the accptance of the paper.
+The manuscript is accepted by EJOR. 
+The source code of the proposed algorithm will be publish in several weeks.
 
 ------------------------------------------------------------------------
 Solution certicates:
